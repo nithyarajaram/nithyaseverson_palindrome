@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://github.com/nithyarajaram/nithyaseverson_palindrome"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'https://rubygems.org/'"
+  spec.metadata["allowed_push_host"] = "https://rubygems.org/"
 
   spec.metadata["homepage_uri"] = "https://github.com/nithyarajaram/nithyaseverson_palindrome"
   spec.metadata["source_code_uri"] = "https://github.com/nithyarajaram/nithyaseverson_palindrome"
